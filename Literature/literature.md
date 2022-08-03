@@ -1,1 +1,5 @@
-### [2022_On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf)
+### [2018AAAI-A Semantic QA-Based Approach for Text Summarization Evaluation](https://arxiv.org/ftp/arxiv/papers/1704/1704.06259.pdf)
+### [2019EMNLP-Answers Unite! Unsupervised Metrics for Reinforced Summarization Models](https://arxiv.org/pdf/1909.01610.pdf)
+### [2020ACL-FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization](https://arxiv.org/pdf/2005.03754.pdf)
+### [2020-Eval4NLP-Fill in the BLANC: Human-free quality estimation of document summaries](https://arxiv.org/pdf/2002.09836.pdf)
+### [2022-On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf)

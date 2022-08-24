@@ -4,7 +4,7 @@
 - [2022EDM-Automatic Short Math Answer Grading via In-context Meta-learning](https://educationaldatamining.org/edm2022/proceedings/2022.EDM-long-papers.11/index.html): MathBert(fine-tune) + classification layer, key: the multiple inputs fed to MathBert
 - [2022AIED-Automated Scoring for Reading Comprehension via In-context BERT Tuning](https://arxiv.org/pdf/2205.09864.pdf): similar approach with the above, on reading comprehension task
 - [2022CIKM-Mitigating Biases in Student Performance Prediction via Attention-Based Personalized Federated Learning](https://arxiv.org/ftp/arxiv/papers/2208/2208.01182.pdf): federated learning: local performance prediction model for each subgroup of students based on demographic information using attention + GRU + linear layer ---> global model
-- [2022ACL-Similarity-Based Content Scoring - How to Make S-BERT Keep Up With BERT](https://arxiv.org/pdf/2205.09864.pdf)
+- [2022ACL-Similarity-Based Content Scoring - How to Make S-BERT Keep Up With BERT](https://aclanthology.org/2022.bea-1.16.pdf): similarity-based vs. instance-based,  a pretrained Sentence-BERT (S-BERT) model is fine-tuned on answer pairs and then used in a knn-fashion to assign a score to a new learner answer based on the similarity to the already labeled ones.
 - [2021EDM-Improving Automated Scoring of Student Open Responses in Mathematics](https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_188.pdf)
 - [2021EDM-Generative Grading: Near Human-level Accuracy for Automated Feedback on Richly Structured Problems](https://files.eric.ed.gov/fulltext/ED615516.pdf)
 - [2020LAK-The automated grading of student open responses in mathematics](https://dl.acm.org/doi/10.1145/3375462.3375523)
